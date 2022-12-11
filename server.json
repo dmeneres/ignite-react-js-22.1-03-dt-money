@@ -4,8 +4,8 @@
       "id": 1,
       "description": "Website development",
       "type": "income",
-      "category": "sale",
-      "price": 14000,
+      "category": "sales",
+      "price": 2000,
       "createdAt": "2022-12-04T14:48:18.444Z"
     },
     {
@@ -17,18 +17,18 @@
       "createdAt": "2022-12-04T14:49:18.444Z"
     },
     {
-      "description": "bkaaka",
-      "price": 200,
-      "category": "tui",
-      "type": "income",
+      "description": "Cinema",
+      "price": 7,
+      "category": "entertainment",
+      "type": "outcome",
       "createdAt": "2022-12-06T15:34:33.994Z",
       "id": 3
     },
     {
-      "description": "mooooti",
-      "price": 56,
-      "category": "tar",
-      "type": "income",
+      "description": "Uber",
+      "price": 19,
+      "category": "taxi",
+      "type": "outcome",
       "createdAt": "2022-12-06T15:55:47.980Z",
       "id": 4
     }
